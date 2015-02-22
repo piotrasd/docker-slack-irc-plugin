@@ -1,5 +1,5 @@
 NAME="slack-irc-plugin"
-REPO="https://github.com/jimmyhillis/slack-irc-plugin.git"
+REPO="https://github.com/frdmn/slack-irc-plugin.git"
 
 cd /tmp
 
