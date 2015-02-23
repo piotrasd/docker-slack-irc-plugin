@@ -10,7 +10,7 @@ var config = {
     username: 'slackbot-username',
     token: 'XXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXX',
     channels: {
-        '#irc-channel password(optional)': '#slack-channel'
+        '#irc-channel password(optional)': 'slack-channel'
     },
     users: {
         '~irclogin': 'slackuser'
