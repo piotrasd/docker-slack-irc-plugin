@@ -10,9 +10,9 @@ Dockerized version of @jimmyhillis' [IRC to slack sync plugin](https://github.co
   `cd /tmp/slack-irc-plugin`  
   `vi opt/config.js`  
 1. Build docker image:  
-  `docker build -t slack-irc-plugin .`
+  `make build`
 1. Run container:  
-  `docker run slack-irc-plugin`
+  `make run`
 
 ### Version
 1.0.0
