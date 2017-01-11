@@ -1,5 +1,5 @@
 # Ubuntu base image
-FROM ubuntu:13.10
+FROM ubuntu:16.04
 
 # System updates
 RUN apt-get update
